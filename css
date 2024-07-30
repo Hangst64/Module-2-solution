@@ -1,0 +1,32 @@
+section{
+  position: relative;
+  border: 3px solid #73AD21;
+}
+
+head{
+  color: black;
+  font-size: 10px;
+}
+
+p{
+color: black;
+font-size: 15px;
+width: 400px;
+}
+
+h1{
+position:absolute;
+color: blue;
+font-size: 18px;
+right:0;
+}
+
+h2{
+color: blue;
+font-size: 18px;
+}
+
+h3{
+color: blue;
+font-size: 18px;
+}
